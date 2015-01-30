@@ -6,6 +6,5 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#f_2189f004> rdfs:label "f" ;
     rdf:Description "f" ;
-    rdf:ID "f_2189f004" ;
-    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#blbl_c12483cd> .
+    rdf:ID "f_2189f004" .
 

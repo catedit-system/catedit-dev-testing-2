@@ -7,6 +7,5 @@
 <http://ld.iri-research.org/ontology/categorisation/category#test_6bbfb4ed> rdfs:label "test" ;
     rdf:Description "tststst" ;
     rdf:ID "test_6bbfb4ed" ;
-    rdfs:comment "1" ;
-    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#bgr_57ad9aaf> .
+    rdfs:comment "1" .
 

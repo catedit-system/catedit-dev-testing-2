@@ -7,6 +7,5 @@
 <http://ld.iri-research.org/ontology/categorisation/category#donottouch_445fd697> rdfs:label "doNotTouch" ;
     rdf:Description "test" ;
     rdf:ID "donottouch_445fd697" ;
-    rdfs:comment "test" ;
-    ns1:related <http://ld.iri-research.org/ontology/categorisation/category#todelete_cb7c85c4> .
+    rdfs:comment "test" .
 

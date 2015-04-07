@@ -6,28 +6,28 @@
       "descriptive_label_en": "Subclass of",
       "object_type": "uriref-category",
       "usable_in_editor": "True",
-      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#subClassOf"
     },
     "http://www.w3.org/2000/01/rdf-schema#comment": {
       "descriptive_label_fr": "Commentaire",
       "descriptive_label_en": "Comment",
       "object_type": "literal",
       "usable_in_editor": "True",
-      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#comment",
+      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#comment"
     },
    "http://www.w3.org/2000/01/rdf-schema#Resource": {
       "descriptive_label_fr": "Ressource",
       "descriptive_label_en": "Resource",
       "object_type": "uriref-link",
       "usable_in_editor": "True",
-      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#Resource",
+      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#Resource"
     },
     "http://www.w3.org/2004/02/skos/core#related": {
       "descriptive_label_fr": "En relation avec",
       "descriptive_label_en": "Related to",
       "object_type": "uriref-category",
       "usable_in_editor": "True",
-      "rdflib_class": "http://www.w3.org/2004/02/skos/core#related",
+      "rdflib_class": "http://www.w3.org/2004/02/skos/core#related"
     }
   }
 }

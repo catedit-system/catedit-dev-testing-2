@@ -1,0 +1,33 @@
+{
+  "namespace_title" : "catedit-dev-testing-2",
+  "property_list" : {
+    RDFS.subClassOf.toPython(): {
+      "descriptive_label_fr": "Sous-classe de",
+      "descriptive_label_en": "Subclass of",
+      "object_type": "uriref-category",
+      "usable_in_editor": True,
+      "rdflib_class": RDFS.subClassOf,
+    },
+    RDFS.comment.toPython(): {
+      "descriptive_label_fr": "Commentaire",
+      "descriptive_label_en": "Comment",
+      "object_type": "literal",
+      "usable_in_editor": True,
+      "rdflib_class": RDFS.comment,
+    },
+    RDFS.Resource.toPython(): {
+      "descriptive_label_fr": "Ressource",
+      "descriptive_label_en": "Resource",
+      "object_type": "uriref-link",
+      "usable_in_editor": True,
+      "rdflib_class": RDFS.Resource,
+    },
+    SKOS.related.toPython(): {
+      "descriptive_label_fr": "En relation avec",
+      "descriptive_label_en": "Related to",
+      "object_type": "uriref-category",
+      "usable_in_editor": True,
+      "rdflib_class": SKOS.related,
+    }
+  }
+}

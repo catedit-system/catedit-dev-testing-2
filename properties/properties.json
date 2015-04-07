@@ -28,7 +28,7 @@
       "object_type": "uriref-category",
       "usable_in_editor": true,
       "rdflib_class": "http://www.w3.org/2004/02/skos/core#related"
-    }
+    },
     "http://ld.iri-research.org/ontology/categorisation/catedit-dev-testing-2#myFirstProperty": {
       "descriptive_label_fr": "Ma propriété test",
       "descriptive_label_en": "Testing property",

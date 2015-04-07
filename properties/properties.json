@@ -26,7 +26,7 @@
       "descriptive_label_fr": "En relation avec",
       "descriptive_label_en": "Related to",
       "object_type": "uriref-category",
-      "usable_in_editor": True,
+      "usable_in_editor": "True",
       "rdflib_class": "http://www.w3.org/2004/02/skos/core#related",
     }
   }

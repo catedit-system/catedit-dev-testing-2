@@ -5,7 +5,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#toedit_b3f79a34> rdfs:label "toEdit" ;
-    ns1:myFirstProperty <http://ld.iri-research.org/ontology/categorisation/category#todelete_1a2cff13> ;
     rdf:Description "test3" ;
-    rdf:ID "toedit_b3f79a34" .
+    rdf:ID "toedit_b3f79a34" ;
+    rdfs:comment "Adding a comment" .
 

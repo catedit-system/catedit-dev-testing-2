@@ -1,0 +1,11 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/catedit-dev-testing-2#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#toedit_b3f79a34> rdfs:label "toEdit" ;
+    ns1:myFirstProperty <http://ld.iri-research.org/ontology/categorisation/category#todelete_1a2cff13> ;
+    rdf:Description "test3" ;
+    rdf:ID "toedit_b3f79a34" .
+

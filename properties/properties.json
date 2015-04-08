@@ -1,5 +1,5 @@
 {
-  "namespace_title" : "catedit-dev-testing-2",
+  "namespace_title" : "explorunivers-habitabilite",
   "property_list" : {
     "http://www.w3.org/2000/01/rdf-schema#subClassOf": {
       "descriptive_label_fr": "Sous-classe de",
@@ -8,33 +8,26 @@
       "usable_in_editor": true,
       "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#subClassOf"
     },
-    "http://www.w3.org/2000/01/rdf-schema#comment": {
-      "descriptive_label_fr": "Commentaire",
-      "descriptive_label_en": "Comment",
-      "object_type": "literal",
-      "usable_in_editor": true,
-      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#comment"
-    },
-   "http://www.w3.org/2000/01/rdf-schema#Resource": {
-      "descriptive_label_fr": "Ressource",
-      "descriptive_label_en": "Resource",
-      "object_type": "uriref-link",
-      "usable_in_editor": true,
-      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#Resource"
-    },
-    "http://www.w3.org/2004/02/skos/core#related": {
-      "descriptive_label_fr": "En relation avec",
-      "descriptive_label_en": "Related to",
+    "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Cause": {
+      "descriptive_label_fr": "Cause",
+      "descriptive_label_en": "Causes",
       "object_type": "uriref-category",
       "usable_in_editor": true,
-      "rdflib_class": "http://www.w3.org/2004/02/skos/core#related"
+      "rdflib_class": "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Cause"
     },
-    "http://ld.iri-research.org/ontology/categorisation/catedit-dev-testing-2#myFirstProperty": {
-      "descriptive_label_fr": "Ma propriété test",
-      "descriptive_label_en": "Testing property",
+    "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Conditionne": {
+      "descriptive_label_fr": "Conditionne",
+      "descriptive_label_en": "Conditions",
       "object_type": "uriref-category",
       "usable_in_editor": true,
-      "rdflib_class": "http://ld.iri-research.org/ontology/categorisation/catedit-dev-testing-2#myFirstProperty"
+      "rdflib_class": "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Conditionne"
+    },
+    "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Caracterise": {
+      "descriptive_label_fr": "Caractérise",
+      "descriptive_label_en": "Characterize",
+      "object_type": "uriref-category",
+      "usable_in_editor": true,
+      "rdflib_class": "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Caracterise"
     }
   }
 }

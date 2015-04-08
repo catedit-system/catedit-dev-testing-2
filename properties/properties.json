@@ -29,13 +29,6 @@
       "usable_in_editor": true,
       "rdflib_class": "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Caracterise"
     },
-    "http://www.w3.org/2000/01/rdf-schema#subClassOf": {
-      "descriptive_label_fr": "Sous-classe de",
-      "descriptive_label_en": "Subclass of",
-      "object_type": "uriref-category",
-      "usable_in_editor": false,
-      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#subClassOf"
-    },
     "http://www.w3.org/2000/01/rdf-schema#comment": {
       "descriptive_label_fr": "Commentaire",
       "descriptive_label_en": "Comment",

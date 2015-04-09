@@ -5,7 +5,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#donottouch_0520343a> rdfs:label "DoNotTouch" ;
-    ns1:Cause <http://ld.iri-research.org/ontology/categorisation/category#othertest_f199a401> ;
     rdf:Description "test" ;
     rdf:ID "donottouch_0520343a" .
 

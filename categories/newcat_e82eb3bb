@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#newcat_e82eb3bb> rdfs:label "Newcat" ;
-    rdf:Description "a" ;
+    rdf:Description "ab" ;
     rdf:ID "newcat_e82eb3bb" .
 
